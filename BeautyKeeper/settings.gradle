@@ -1,0 +1,2 @@
+rootProject.name = "BeautyKeeper"
+include ':app'
